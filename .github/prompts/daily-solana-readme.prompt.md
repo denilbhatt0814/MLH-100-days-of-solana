@@ -13,12 +13,16 @@ output:
 
 # Daily Solana Challenge README Builder
 
-Given a reference to the day's challenge (URL or description) and the main code file, generate a markdown summary for the README. The summary should include:
-- Challenge title and context
-- Steps taken to solve the challenge
-- Key takeaways and learnings
-- Any relevant resources or links
-- (Optional) Security or best practice notes
+Given a reference to the day's challenge (URL or description) and the main code file, generate a markdown summary for the README. The agent should:
+
+- Read the output structure and style from previous README files in the project (if available)
+- Automatically create and insert the output in the correct README file for the day
+- The summary must include:
+  - Challenge title and context
+  - Steps taken to solve the challenge
+  - Key takeaways and learnings
+  - Any relevant resources or links
+  - (Optional) Security or best practice notes
 
 ## Example invocation
 
@@ -27,4 +31,4 @@ codeFile: day-02/persistent-wallet.mjs
 
 ## Output
 
-A markdown section suitable for inclusion in the day's README file, following the style and structure of previous days' summaries.
+The agent will generate and insert a markdown section directly into the day's README file, following the style and structure of previous days' summaries.
