@@ -1,8 +1,7 @@
 <div align="center">
 	<img src="https://mlhusercontent.com/backgrounds/challenges/019db48b-d356-b721-760f-7618c0d1db74.jpg?t=1776781880" width="60%" alt="Solana Challenge Banner" />
-  
-	<h1>🚀 Day 3: Solana CLI Wallet & Transaction Fee Extraction</h1>
-	<p><i>MLH 100 Days of Solana Challenge</i></p>
+    <h1>🚀 Day 3: Solana CLI Wallet & Transaction Fee Extraction</h1>
+    <p><i>MLH 100 Days of Solana Challenge</i></p>
 </div>
 
 ---
