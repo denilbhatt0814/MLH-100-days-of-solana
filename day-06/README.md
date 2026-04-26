@@ -1,5 +1,3 @@
-(Image and title)
-
 <div align="center">
   <img src="https://mlhusercontent.com/backgrounds/challenges/019dc049-b917-205c-0ee6-cec0a173b1c2.jpg?t=1777048117" width="60%" alt="Solana Challenge Banner" />
   <h1>📝 Day 6: Share Your Experiences on DEV</h1>
