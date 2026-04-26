@@ -65,10 +65,10 @@ The [MLH 100 Days of Solana](https://www.mlh.com/events/100-days-of-solana/chall
 
 ## 💡 Week 1 Highlights
 
-**The mobile wallet moment (Day 5)**
+**The mobile wallet moment (Day 5)**\
 Coming in as someone who's worked on Ethereum and Polygon, I didn't expect a _mobile wallet_ to be my biggest surprise of the week. Setting up Phantom on mobile — with Google account recovery backed by iOS Keychain / Android Keystore — was the kind of UX that makes Web3 feel genuinely accessible. That's a bar Ethereum tooling hasn't consistently hit yet.
 
-**Writing about what I know (Day 6)**
+**Writing about what I know (Day 6)**\
 The challenge pushed me to write. Condensing a week of identity concepts into a single article — one that led with _"Meri chabi, meri pehchan"_ — was harder than expected and more satisfying than expected. Curiosity got me here; might as well keep going.
 
 ---
