@@ -13,7 +13,7 @@ Today's challenge was to get hands-on with three different wallet types — CLI,
 
 ---
 
-## >_ CLI Wallet
+## >\_ CLI Wallet
 
 The CLI wallet was the fastest to set up — honestly, it's a single command:
 
@@ -56,31 +56,31 @@ One thing I'm still fuzzy on is how smooth is the dApp interaction experience on
 
 ## The Questionnaire
 
-1. **Which wallet was fastest to set up?** 🏎️💨
-CLI, anyday — if you're a developer. But then for general public though? Mobile wins, no doubt there.
+1. **Which wallet was fastest to set up?** 🏎️💨\
+   CLI, anyday — if you're a developer. But then for general public though? Mobile wins, no doubt there.
 
-2. **Which felt safest?** 🦺
-I'll say Mobile. Biometric auth + mPin + hardware-backed secure storage is a tough combo to beat.
+2. **Which felt safest?** 🦺\
+   I'll say Mobile. Biometric auth + mPin + hardware-backed secure storage is a tough combo to beat.
 
-3. **Where is the private key stored in each case?** 💾
-    - **CLI** → `~/.config/solana/id.json` — plain text on disk
-    - **Browser wallet** → encrypted in browser storage (`localStorage` / `IndexedDB`)
-    - **Mobile wallet** → OS secure vault (iOS Keychain / Android Keystore), isolated from other apps
+3. **Where is the private key stored in each case?** 💾\
+   - **CLI** → `~/.config/solana/id.json` — plain text on disk
+   - **Browser wallet** → encrypted in browser storage (`localStorage` / `IndexedDB`)
+   - **Mobile wallet** → OS secure vault (iOS Keychain / Android Keystore), isolated from other apps
 
-4. **If your laptop caught fire right now, which wallets could you recover?** 💻🔥
-Browser wallet — because I wrote down the seed phrase during setup 🤓. CLI is a maybe, depending on whether I had that seed phrase somewhere safe (lesson learned: "always write it down"). 
+4. **If your laptop caught fire right now, which wallets could you recover?** 💻🔥\
+   Browser wallet — because I wrote down the seed phrase during setup 🤓. CLI is a maybe, depending on whether I had that seed phrase somewhere safe (lesson learned: "always write it down").
 
-5. **If you needed to sign 500 test transactions in a script?** ✒️
-CLI, for sure. I cannot imagine hitting "Approve" on 500 browser popups. That's a big no no 🙅‍♂️.
+5. **If you needed to sign 500 test transactions in a script?** ✒️\
+   CLI, for sure. I cannot imagine hitting "Approve" on 500 browser popups. That's a big no no 🙅‍♂️.
 
-6. **If you were holding $10,000 in SOL?** 🤑
-Mobile wallet feels the safest of these three — but honestly, at that value, I'd seriously look into a hardware wallet 😅 like Ledger. Keeping that much value in a hot wallet of any kind feels like tempting fate. 
+6. **If you were holding $10,000 in SOL?** 🤑\
+   Mobile wallet feels the safest of these three — but honestly, at that value, I'd seriously look into a hardware wallet 😅 like Ledger. Keeping that much value in a hot wallet of any kind feels like tempting fate.
 
 ---
 
 ## 📝 What I Took Away
 
-All three wallets are doing the same fundamental thing — managing a keypair — but *where* and *how* they store it changes everything about the security model.
+All three wallets are doing the same fundamental thing — managing a keypair — but _where_ and _how_ they store it changes everything about the security model.
 
 The CLI is your best friend for development and scripting. The browser extension is the right default for everyday on-chain interaction — that approval popup is a feature, not an annoyance. The mobile wallet is the most polished for personal use, with the best native security integrations.
 
