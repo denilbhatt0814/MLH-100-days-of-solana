@@ -1,7 +1,7 @@
-# 🔑 100 Days of Solana — by Denil Bhatt
+# 🎯 100 Days of Solana — by Denil Bhatt
 
 ![Challenge](https://img.shields.io/badge/MLH-100%20Days%20of%20Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-7%20%2F%20100%20Days-14F195?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-8%20%2F%20100%20Days-14F195?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
 ![Chain](https://img.shields.io/badge/Blockchain-Solana-black?style=for-the-badge&logo=solana)
 
@@ -50,6 +50,12 @@ The [MLH 100 Days of Solana](https://www.mlh.com/events/100-days-of-solana/chall
 | ✅ Day 5 | Explore different wallet types                         | Hot vs cold wallets, Phantom mobile, iOS Keychain / Android Keystore security | [day-05-wallet-types](./day-05-wallet-types/) | —                                                                          |
 | ✅ Day 6 | Share your experiences on DEV                          | On-chain identity, Web2 vs Web3 ownership                                     | [day-06](./day-06/)                           | [Dev.to ↗](https://dev.to/denilbhatt/your-signature-is-your-identity-5epa) |
 | ✅ Day 7 | Share your wallet experiments and amplify others       | Building in public, community engagement                                      | [day-07](./day-07/)                           | —                                                                          |
+
+### 🗓️ Week 2 — Reading the blockchain
+
+| Day      | Challenge                                | Key Concept                                         | Folder                                      | Write-up |
+| -------- | ---------------------------------------- | --------------------------------------------------- | ------------------------------------------- | -------- |
+| ✅ Day 8 | Read a wallet balance from Solana devnet | RPC calls, `getBalance`, lamports to SOL conversion | [day-08-read-solana](./day-08-read-solana/) | —        |
 
 ---
 
