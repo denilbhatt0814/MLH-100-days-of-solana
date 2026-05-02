@@ -1,6 +1,5 @@
 <div align="center">
 	<img src="https://mlhusercontent.com/backgrounds/challenges/019dd88a-06f0-928e-6075-2035a6de9a35.jpg?t=1777541713" width="60%" alt="Solana Challenge Banner" />
-
     <h1>📊 Day 10: Devnet Dashboard</h1>
     <p><i>MLH 100 Days of Solana Challenge — Build a simple dashboard in the browser</i></p>
 
