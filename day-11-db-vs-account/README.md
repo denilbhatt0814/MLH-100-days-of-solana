@@ -1,6 +1,5 @@
 <div align="center">
 	<img src="https://mlhusercontent.com/backgrounds/challenges/019dddb6-fcb4-4f2d-25db-9eae6bc8de9a.jpg?t=1777631234" width="60%" alt="Solana Challenge Banner" />
-
     <h1>🗄️ Day 11: Database vs Account</h1>
     <p><i>MLH 100 Days of Solana Challenge — Understand how Solana stores data</i></p>
 
