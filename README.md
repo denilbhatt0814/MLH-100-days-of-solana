@@ -1,7 +1,7 @@
 # 🎯 100 Days of Solana — by Denil Bhatt
 
 ![Challenge](https://img.shields.io/badge/MLH-100%20Days%20of%20Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-8%20%2F%20100%20Days-14F195?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-13%20%2F%20100%20Days-14F195?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)
 ![Chain](https://img.shields.io/badge/Blockchain-Solana-black?style=for-the-badge&logo=solana)
 
@@ -53,29 +53,25 @@ The [MLH 100 Days of Solana](https://www.mlh.com/events/100-days-of-solana/chall
 
 ### 🗓️ Week 2 — Reading the blockchain
 
-| Day      | Challenge                                | Key Concept                                         | Folder                                      | Write-up |
-| -------- | ---------------------------------------- | --------------------------------------------------- | ------------------------------------------- | -------- |
-| ✅ Day 8 | Read a wallet balance from Solana devnet | RPC calls, `getBalance`, lamports to SOL conversion | [day-08-read-solana](./day-08-read-solana/) | —        |
+| Day       | Challenge                                | Key Concept                                         | Folder                                                | Write-up                                                                                     |
+| --------- | ---------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| ✅ Day 8  | Read a wallet balance from Solana devnet | RPC calls, `getBalance`, lamports to SOL conversion | [day-08-read-solana](./day-08-read-solana/)           | —                                                                                            |
+| ✅ Day 9  | Fetch and display recent transactions    | `getSignaturesForAddress`, transaction history      | [day-09-transactions](./day-09-transactions/)         | —                                                                                            |
+| ✅ Day 10 | Build a simple dashboard in the browser  | Browser UI, Vite, RPC in the browser                | [day-10-dashboard](./day-10-dashboard/)               | [Live demo ↗](https://day-10-dashboard.vercel.app/)                                          |
+| ✅ Day 11 | Database vs Account                      | Account model, rent, storage economics              | [day-11-db-vs-account](./day-11-db-vs-account/)       | —                                                                                            |
+| ✅ Day 12 | Compare devnet and mainnet               | Clusters, devnet vs mainnet differences             | [day-12-compare-networks](./day-12-compare-networks/) | —                                                                                            |
+| ✅ Day 13 | The mental model shift (write-up)        | Accounts, rent, storage design, Web2 → Web3         | [day-13](./day-13/)                                   | [Dev.to ↗](https://dev.to/denilbhatt/ive-been-building-on-sand-solana-builds-on-bedrock-fa9) |
 
 ---
 
 ## ✍️ Write-ups on DEV Community
 
-| Day   | Title                           | Link                                                                               |
-| ----- | ------------------------------- | ---------------------------------------------------------------------------------- |
-| Day 6 | Your Signature is Your Identity | [Read on Dev.to ↗](https://dev.to/denilbhatt/your-signature-is-your-identity-5epa) |
+| Day    | Title                                                 | Link                                                                                                 |
+| ------ | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Day 6  | Your Signature is Your Identity                       | [Read on Dev.to ↗](https://dev.to/denilbhatt/your-signature-is-your-identity-5epa)                   |
+| Day 13 | I've been building on sand — Solana builds on bedrock | [Read on Dev.to ↗](https://dev.to/denilbhatt/ive-been-building-on-sand-solana-builds-on-bedrock-fa9) |
 
 > More write-ups will be added as the challenge progresses.
-
----
-
-## 💡 Week 1 Highlights
-
-**The mobile wallet moment (Day 5)**\
-Coming in as someone who's worked on Ethereum and Polygon, I didn't expect a _mobile wallet_ to be my biggest surprise of the week. Setting up Phantom on mobile — with Google account recovery backed by iOS Keychain / Android Keystore — was the kind of UX that makes Web3 feel genuinely accessible. That's a bar Ethereum tooling hasn't consistently hit yet.
-
-**Writing about what I know (Day 6)**\
-The challenge pushed me to write. Condensing a week of identity concepts into a single article — one that led with _"Meri chabi, meri pehchan"_ — was harder than expected and more satisfying than expected. Curiosity got me here; might as well keep going.
 
 ---
 
