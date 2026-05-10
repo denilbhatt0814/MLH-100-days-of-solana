@@ -107,3 +107,9 @@ You can play the file in the browser on GitHub (click the link) or locally with 
 ## 💭 Reflection
 
 Making confirmation stages visible turns an opaque operation into a trustworthy user flow. Wallets and marketplaces use the same pattern to decide when to update UI or mark a payment as final — the polling + status-reporting approach is simple, reliable, and easy to reuse in both CLI tools and small UIs.
+
+---
+
+<div align="center">
+	<i>✨ This documents my Day 18 work: stages of transaction ✨</i>
+</div>
