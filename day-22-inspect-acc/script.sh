@@ -1,0 +1,3 @@
+solana account $(solana address)
+solana account TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
+solana account 11111111111111111111111111111111
