@@ -1,0 +1,1 @@
+While exploring the solana explorer, I clicked the slot number showcased on the screen. It landed me on to a very intresting page, displaying information regarding a block. It had like all the transactions, which were part of that block. It had a tab showcasing the rewards for the block.
