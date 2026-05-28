@@ -1,0 +1,12 @@
+{
+  "name": "CoffeeBean",
+  "symbol": "CBT",
+  "description": "A coffee bean token, get you beans and we brew for you",
+  "image": "https://raw.githubusercontent.com/denilbhatt0814/MLH-100-days-of-solana/refs/heads/main/day-34-token-writeup/assets/image.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Coffee Bean"
+    }
+  ]
+}
