@@ -1,0 +1,29 @@
+spl-token create-token --decimals 0
+# Creating token DcpdyjGFBPQAwMMuqDk1EBdtGgZscMkXWHsbGZt5kNGU under program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
+
+# Address:  DcpdyjGFBPQAwMMuqDk1EBdtGgZscMkXWHsbGZt5kNGU
+# Decimals:  0
+
+# Signature: 37N9fvWJysoL13AZPiNQdt8izSegebehuHe5ceQZsAVDuCxgMbnVuDt733qU6gkTrxWi2GM7t3y6ytWjdY6qFftM
+
+spl-token create-account DcpdyjGFBPQAwMMuqDk1EBdtGgZscMkXWHsbGZt5kNGU
+# Creating account EbkbSmxcATb72PMpiA8CAEA2CC4Q7nooDzNr4X5BJ24s
+
+# Signature: 5Dj54EWxudik6QeDYV2pnAUHbfo5xVyzgW2NH4Dtxc4P8UbvsFJdmitsUv5YvRUiNq3QJCqBbVUVdeEyXHRke8oj
+
+spl-token mint DcpdyjGFBPQAwMMuqDk1EBdtGgZscMkXWHsbGZt5kNGU 1
+# Minting 1 tokens
+#   Token: DcpdyjGFBPQAwMMuqDk1EBdtGgZscMkXWHsbGZt5kNGU
+#   Recipient: EbkbSmxcATb72PMpiA8CAEA2CC4Q7nooDzNr4X5BJ24s
+
+# Signature: 3wXuq2JwFjX8vB8NL99vrQouRao5fM9gu6aHBsjwzJumRrvDK9MiKLBaoqJcGJyABTX6tYce9oeDit1v4H1ZVtzQ
+
+spl-token authorize DcpdyjGFBPQAwMMuqDk1EBdtGgZscMkXWHsbGZt5kNGU mint --disable
+# Updating DcpdyjGFBPQAwMMuqDk1EBdtGgZscMkXWHsbGZt5kNGU
+#   Current mint: D8PsUTErJsVLTa3Wu3rtVvv9kwp4jm7sE4hH1LFKjRz1
+#   New mint: disabled
+
+# Signature: 64sQCaz6Esb4a6o7m3o9rBdmkweRrDhSmXvUqTNzn8yVAVVrH8EvDExhsgyrR6oniv7Ea6CVaPSVYEmQc6NYjYhx
+
+spl-token supply DcpdyjGFBPQAwMMuqDk1EBdtGgZscMkXWHsbGZt5kNGU
+# 1
