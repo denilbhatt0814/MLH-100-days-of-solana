@@ -1,0 +1,10 @@
+spl-token update-metadata nftryjZd9LwC2d7cW75N5YiwypJyGZ1LA4kABRFJrWt name "The Simpson"
+# Signature: 5WXKxhcmMv9z5jHnNZY8MHNTivxCMexTXJUzz8bmS8MBvKDV6aPHLsL97RZuFZtnChv8yzPn4vwwJ3wLqxrzYH5V
+
+spl-token update-metadata nftryjZd9LwC2d7cW75N5YiwypJyGZ1LA4kABRFJrWt rarity legendary
+# Signature: 64PtB8KzLmK75hUFBEtxhJpVuGZgpXvqHjaNhtp4kbUdNoko9gqoLys78n29ZDr2svPh2XULTiqLs4km9Yf3Axw8
+
+spl-token update-metadata nftryjZd9LwC2d7cW75N5YiwypJyGZ1LA4kABRFJrWt rarity --remove
+# Signature: CxbyDF5RfrAq9vHCDF7dxgFFHEHsmJzGyDwdihNnWAvBQiwX8Yo6VEiHejRFGqoJx9xkXia13yHKLm5K2A9E46B
+
+spl-token update-metadata nftryjZd9LwC2d7cW75N5YiwypJyGZ1LA4kABRFJrWt uri https://gist.githubusercontent.com/janvinsha/6f8187a0b15de99c03a1b07e82db36e9/raw/83e33a3529d07df1f4d60bf7d543c5b72b5314e2/metadata.json
